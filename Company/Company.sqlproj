@@ -64,6 +64,8 @@
     <Build Include="Project.sql" />
     <Build Include="Task.sql" />
     <Build Include="Technology.sql" />
+    <Build Include="StatusMaster.sql" />
+    <Build Include="RoleMaster.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="Company.refactorlog" />

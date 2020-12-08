@@ -42,4 +42,18 @@
     <Property Name="ParentElementType" Value="SqlTable" />
     <Property Name="NewName" Value="TechnologyID" />
   </Operation>
+  <Operation Name="Rename Refactor" Key="6e2b8d8d-5d66-48ab-a338-2fc23dd2a5da" ChangeDateTime="12/08/2020 11:42:01">
+    <Property Name="ElementName" Value="[dbo].[StatusMaster].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[StatusMaster]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="StatusID" />
+  </Operation>
+  <Operation Name="Rename Refactor" Key="dfc314f4-6c52-40dd-abff-056d9476ff6d" ChangeDateTime="12/08/2020 11:43:35">
+    <Property Name="ElementName" Value="[dbo].[RoleMaster].[Id]" />
+    <Property Name="ElementType" Value="SqlSimpleColumn" />
+    <Property Name="ParentElementName" Value="[dbo].[RoleMaster]" />
+    <Property Name="ParentElementType" Value="SqlTable" />
+    <Property Name="NewName" Value="RoleID" />
+  </Operation>
 </Operations>
