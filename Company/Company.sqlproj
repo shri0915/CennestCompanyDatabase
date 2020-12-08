@@ -70,6 +70,7 @@
     <Build Include="ProjectTask.sql" />
     <Build Include="TaskTechnology.sql" />
     <Build Include="ProjectTechnology.sql" />
+    <Build Include="EmployeeProject.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="Company.refactorlog" />
