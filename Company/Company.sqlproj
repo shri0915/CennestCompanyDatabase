@@ -60,8 +60,8 @@
   <ItemGroup>
     <Build Include="Department.sql" />
     <Build Include="Employee.sql" />
-    <Build Include="Table1.sql" />
-    <Build Include="Table1_1.sql" />
+    <Build Include="Client.sql" />
+    <Build Include="Project.sql" />
   </ItemGroup>
   <ItemGroup>
     <RefactorLog Include="Company.refactorlog" />
